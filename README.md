@@ -1,4 +1,4 @@
-# AuctionService
+# auction-service
 
 ----------------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ The winning bid information consists of the following:
 ----------------------------------------------------------------------------------
 
 
-**Starting Up Auction-Service Application:**
+**Starting Up auction-service Application:**
 --
 
 To build the application, you will need to have Maven installed. Once Maven is installed, run the following command:
@@ -104,6 +104,7 @@ memory usage, as opposed to maintaining all bid entries.
         "auctionId": 1
     }
 }
+
 ----------------------------------------------------------------------------------
 
 **Windows Instruction:**
